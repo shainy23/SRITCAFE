@@ -27,11 +27,9 @@ Access the system using a web browser (http://localhost/SRITCAFE/).
 You can register for a customer account and log in. To log in with an admin account, click "Log in with admin account" on the login page. Use the provided credentials for admin mode access.
 For any further assistance, please contact the project members:
 Baba Hussain Shaik
-P Sushma
 M Mary Shainy
 Members
 Baba Hussain Shaik
-P Sushma
 M Mary Shainy
 Address: SRIT College, Anantapur, India
 
